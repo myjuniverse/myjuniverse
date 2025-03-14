@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=BEDAF0&height=150&text=Jun Park&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=_BEDAF0&height=150&text=Jun Park&fontSize=80)
 
 
 
