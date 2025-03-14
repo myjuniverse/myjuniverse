@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=JunPark&fontSize=60&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=BEDAF0&height=200&section=header&text=JunPark&fontSize=60&fontColor=FFFFFF)
 
 
 
