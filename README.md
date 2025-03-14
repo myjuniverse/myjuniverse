@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=2200&section=header&text=JunParkr&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=200&section=header&text=JunParkr&fontSize=90)
 
 
 
