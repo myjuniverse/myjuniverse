@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=C3E2F0&height=200&section=header&text=Jun%20Park&fontSize=60&fontColor=FFFFFF)
 
 
-<div align=center>🛠 Tech Stack 🛠</div>
+<div align=center><h1>🛠 Tech Stack 🛠</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -27,9 +27,6 @@
   <br>
 </div>
 
-
-🎳 About Me 🎳
-<a href="링크주소"><img src="https://img.shields.io/badge/로고이름-색상코드?style=flat&logo=로고이름&logoColor=white&link=링크주소"/></a>&nbsp
 
 
 
