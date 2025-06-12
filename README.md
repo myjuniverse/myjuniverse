@@ -35,12 +35,6 @@
     height="120"
     contribution-view=false
   />
-  <img
-    src="https://render.gitanimals.org/lines/myjuniverse?pet-id=720806632643865813"
-    width="600"
-    height="120"
-    contribution-view=false
-  />
 </a>
 </div>
 
