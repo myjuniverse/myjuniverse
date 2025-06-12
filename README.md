@@ -32,20 +32,12 @@
     width="600"
     height="120"
   />
-</a>
-  
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/myjuniverse?pet-id=720806632643865813"
     width="600"
     height="120"
   />
 </a>
-  
-
-
-
 
 
 
