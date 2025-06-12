@@ -38,6 +38,8 @@
 </a>
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjuniverse&theme=dark&show_icons=true)
+
 
 
 
