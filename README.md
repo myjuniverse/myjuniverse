@@ -38,7 +38,7 @@
     height="120"
   />
 </a>
-</div>div>
+</div>
 
 
 
