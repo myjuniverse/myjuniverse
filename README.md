@@ -32,7 +32,7 @@
   <img
     src="https://render.gitanimals.org/lines/myjuniverse?pet-id=720806632148930151"
     width="600"
-    height="150"
+    height="130"
     contribution-view=false
   />
 </a>
