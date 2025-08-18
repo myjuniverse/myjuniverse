@@ -28,23 +28,16 @@
 -->
 
 <div>
-<!-- <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/myjuniverse?pet-id=720806632148930151"
     width="600"
     height="130"
     contribution-view=false
   />
-</a> -->
-  
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/myjuniverse?pet-id=735859641249747278"
-    width="600"
-    height="130"
-    contribution-view=false
-  />
 </a>
+  
+
   
 </div>
 
