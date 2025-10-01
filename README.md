@@ -37,7 +37,7 @@
   />
 </a>
 
-github-readme-stats.vercel.app/api/top-langs/?username={myjuniverse}&langs_count=8
+![myjuniverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjuniverse&show_icons=true&theme=transparent)
   
 
   
