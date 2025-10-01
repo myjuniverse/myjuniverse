@@ -37,9 +37,6 @@
   />
 </a>
 
-![myjuniverse's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjuniverse&show_icons=true&theme=transparent)
-  
-
   
 </div>
 
