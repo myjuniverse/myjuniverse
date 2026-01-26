@@ -45,6 +45,7 @@
 
 기존의 프로세스를 개선하고 자동화하는 것에 관심이 많으며, Java와 Vue.js를 활용한 웹 서비스 개발 경험이 있습니다. 현재는 대용량 트랜잭션 처리 및 금융 컴플라이언스 시스템 구축에 집중하고 있습니다.
 
+<br>
 
 ## 🛠 Tech Stack
 
@@ -57,11 +58,12 @@
 ### DevOps & Tools
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white">
 
+<br>
 
 ## 💼 Work Experience
 
 ### **Backend Developer**
-> *Logistics & Integrated Management System (2025.09 - Present)*
+> *Financial Compliance & AML System (2025.09 - Present)*
 
 대규모 금융 트랜잭션 환경에서 유연하고 확장 가능한 AML 아키텍처를 설계합니다.
 복잡한 컴플라이언스 요건을 시스템 로직으로 구현하며, 데이터 정합성과 운영 효율성을 최우선으로 고려합니다.
@@ -84,6 +86,7 @@
 - **Development Standards:**
   - 명세서(Specification) 및 기술 문서 표준화를 통해 개발 프로세스 효율화 및 협업 비용 절감
 
+<br>
 
 ## 🚀 Key Projects
 
@@ -108,12 +111,14 @@
     - 게시판(CRUD) 및 댓글 기능 구현
 - **Repository**: [Backend](https://github.com/team-kokkiri/Kokkiri-Back) | [Frontend](https://github.com/team-kokkiri/Kokkiri-Front)
 
+<br>
 
 ## ⚡ Github Stats
 
 ![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjuniverse&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myjuniverse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<br>
 
 ## 📫 Contact
 - **Email**: rksekrh10@naver.com
