@@ -28,7 +28,6 @@
 -->
 
 <div>
-
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/myjuniverse?pet-id=735859641249747278"
@@ -36,9 +35,17 @@
     height="120"
   />
 </a>
-
-  
 </div>
+
+# Hi there, I'm Jun (@myjuniverse) 👋
+### 🛠️ Backend Developer & DevOps Automation Enthusiast
+
+데이터 흐름의 효율성을 고민하고, 반복적인 작업을 코드로 자동화하는 것을 즐깁니다. 
+현업에서의 성실한 기록을 기반으로, 기술적 한계를 넘어서는 해결책을 구축하고 있습니다.
+
+---
+
+### 🚀 Key Projects & Contributions
 
 
 
