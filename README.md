@@ -62,7 +62,7 @@
 
 ## 🚀 Key Projects
 
-### 1. Potential Radar (PR) - AI 기반 개발자 매칭 플랫폼
+### 📡 Potential Radar (PR) - AI 기반 개발자 매칭 플랫폼
 > **Team Project** | 2025.07 ~ 2025.09
 > *개발자의 역량을 시각화하고 최적의 팀원을 매칭해주는 플랫폼입니다.*
 
@@ -74,7 +74,7 @@
     - RESTful API 설계 및 구축
 - **Repository**: [Backend](https://github.com/PotentialRadar/PR-Back) | [Frontend](https://github.com/PotentialRadar/PR-Front)
 
-### 2. Kokkiri (코끼리) - KOSA 수강생 커뮤니티
+### 🐘 Kokkiri (코끼리) - KOSA 수강생 커뮤니티
 > **Team Project** | 2025.06 ~ 2025.07
 > *KOSA 수강생들 간의 정보 공유와 네트워킹을 위한 전용 커뮤니티 서비스입니다.*
 
