@@ -38,7 +38,7 @@
 </div>
 
 
-# Hello, I'm Jun Park! 👋
+# Hello, I'm Jun Park! 🙂
 
 > **Efficiency & Automation Enthusiast**
 > "비효율을 자동화로, 복잡함을 단순함으로 바꾸는 백엔드 개발자 박준입니다."
