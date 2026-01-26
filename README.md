@@ -62,19 +62,18 @@
 
 ## 🚀 Key Projects
 
-### 📡 Potential Radar (PR) - AI 기반 개발자 매칭 플랫폼
+### 📡  Potential Radar (PR) - AI 기반 개발자 매칭 플랫폼
 > **Team Project** | 2025.07 ~ 2025.09
 > *개발자의 역량을 시각화하고 최적의 팀원을 매칭해주는 플랫폼입니다.*
 
 - **Role**: Backend/Frontend Developer (부팀장)
-- **Tech Stack**: Java, Python, Spring Boot, Vue.js, MySQL ...
+- **Tech Stack**: Java, Python, Spring Boot, Vue.js, MySQL
 - **Key Features**:
-    - 개발자 역량 분석 레이더 차트 시각화
     - 사용자 성향 기반 AI 팀 매칭 알고리즘 구현
     - RESTful API 설계 및 구축
 - **Repository**: [Backend](https://github.com/PotentialRadar/PR-Back) | [Frontend](https://github.com/PotentialRadar/PR-Front)
 
-### 🐘 Kokkiri (코끼리) - KOSA 수강생 커뮤니티
+### 🐘  Kokkiri (코끼리) - KOSA 수강생 커뮤니티
 > **Team Project** | 2025.06 ~ 2025.07
 > *KOSA 수강생들 간의 정보 공유와 네트워킹을 위한 전용 커뮤니티 서비스입니다.*
 
@@ -82,7 +81,6 @@
 - **Tech Stack**: Java, Spring Boot, Vue.js
 - **Key Features**:
     - 게시판(CRUD) 및 댓글 기능 구현
-    - 회원가입/로그인 인증 시스템 (JWT 등 사용했다면 명시)
 - **Repository**: [Backend](https://github.com/team-kokkiri/Kokkiri-Back) | [Frontend](https://github.com/team-kokkiri/Kokkiri-Front)
 
 ### 3. gitlab-sync - Git 커밋 미러링 자동화 도구
