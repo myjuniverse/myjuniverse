@@ -91,7 +91,7 @@
 
 - **Tech Stack**: Python, Git
 - **Logic**: GitLab API를 통해 커밋 메타데이터 추출 -> GitHub Private Repo에 빈 커밋 생성 (TimeStamp 동기화)
-- **Repository**: [View Code](https://github.com/myjuniverse)
+- **Repository**: [Repository]([https://github.com/myjuniverse)](https://github.com/myjuniverse?tab=repositories)
 
 ---
 
@@ -104,7 +104,7 @@
 
 ## 📫 Contact
 - **Email**: rksekrh10@naver.com
-- **Blog**: https://yourpark.tistory.com/
+- **Blog**: [yourpark](https://yourpark.tistory.com/)
 
 
 
