@@ -60,6 +60,34 @@
 
 ---
 
+## 💼 Work Experience
+
+### **Backend Developer**
+> *Logistics & Integrated Management System (2025.09 - Present)*
+
+대규모 금융 트랜잭션 환경에서 유연하고 확장 가능한 AML 아키텍처를 설계합니다.
+복잡한 컴플라이언스 요건을 시스템 로직으로 구현하며, 데이터 정합성과 운영 효율성을 최우선으로 고려합니다.
+
+**1. Integrated AML System Development (통합 시스템 개발)**
+- **Core Business Logic Implementation:**
+  - 금융 규제 요건(Compliance)을 충족하는 유연한 비즈니스 로직 및 룰 엔진(Rule Engine) 구현
+  - 확장성을 고려한 모듈 설계로 시스템 유지보수 효율성 증대
+- **Data-Driven Architecture:**
+  - 다양한 금융 거래 패턴을 분석하고 처리하는 백엔드 프로세스 최적화
+
+**2. High-Volume Data Processing (대용량 데이터 처리)**
+- **Batch & Real-time Processing:**
+  - 일일 수백만 건 이상의 트랜잭션 및 고객 데이터를 안정적으로 처리하는 배치 시스템 운영
+  - 데이터 정합성(Consistency) 검증 로직을 통해 금융 보고 데이터의 신뢰성 확보
+
+**3. System Stability & Standardization (시스템 안정화 및 표준화)**
+- **Legacy Refactoring:**
+  - 레거시 시스템의 의존성을 제거하고 모듈화를 진행하여 전체 시스템 성능 개선
+- **Development Standards:**
+  - 명세서(Specification) 및 기술 문서 표준화를 통해 개발 프로세스 효율화 및 협업 비용 절감
+
+---
+
 ## 🚀 Key Projects
 
 ### 📡  Potential Radar (PR) - AI 기반 개발자 매칭 플랫폼
@@ -83,14 +111,6 @@
     - 게시판(CRUD) 및 댓글 기능 구현
 - **Repository**: [Backend](https://github.com/team-kokkiri/Kokkiri-Back) | [Frontend](https://github.com/team-kokkiri/Kokkiri-Front)
 
-### 3. gitlab-sync - Git 커밋 미러링 자동화 도구
-> **Personal Project**
-> *사내/폐쇄망 GitLab의 커밋 기록을 개인 GitHub 잔디(Contributions)로 연동하기 위한 자동화 툴입니다.*
-
-- **Tech Stack**: Python, Git
-- **Logic**: GitLab API를 통해 커밋 메타데이터 추출 -> GitHub Private Repo에 빈 커밋 생성 (TimeStamp 동기화)
-- **Repository**: [Repository]([https://github.com/myjuniverse)](https://github.com/myjuniverse?tab=repositories)
-
 ---
 
 ## ⚡ Github Stats
@@ -103,13 +123,3 @@
 ## 📫 Contact
 - **Email**: rksekrh10@naver.com
 - **Blog**: [yourpark](https://yourpark.tistory.com/)
-
-
-
-
-
-
-
-
-
-
