@@ -66,8 +66,8 @@
 > **Team Project** | 2025.07 ~ 2025.09
 > *개발자의 역량을 시각화하고 최적의 팀원을 매칭해주는 플랫폼입니다.*
 
-- **Role**: Backend Developer (팀장/팀원 여부 기재)
-- **Tech Stack**: Java, Spring Boot, Vue.js, MySQL, AI Model API
+- **Role**: Backend/Frontend Developer (부팀장)
+- **Tech Stack**: Java, Python, Spring Boot, Vue.js, MySQL ...
 - **Key Features**:
     - 개발자 역량 분석 레이더 차트 시각화
     - 사용자 성향 기반 AI 팀 매칭 알고리즘 구현
@@ -78,7 +78,7 @@
 > **Team Project** | 2025.06 ~ 2025.07
 > *KOSA 수강생들 간의 정보 공유와 네트워킹을 위한 전용 커뮤니티 서비스입니다.*
 
-- **Role**: Backend Developer
+- **Role**: Backend/Frontend Developer
 - **Tech Stack**: Java, Spring Boot, Vue.js
 - **Key Features**:
     - 게시판(CRUD) 및 댓글 기능 구현
