@@ -98,13 +98,6 @@
 
 <br>
 
-## ⚡ Github Stats
-
-![Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=myjuniverse&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myjuniverse&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
 ## 📫 Contact
 - **Email**: rksekrh10@naver.com
 - **Blog**: [yourpark](https://yourpark.tistory.com/)
