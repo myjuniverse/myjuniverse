@@ -37,15 +37,26 @@
 </a>
 </div>
 
-# Hi there, I'm Jun (@myjuniverse) 👋
-### 🛠️ Backend Developer & DevOps Automation Enthusiast
+---
 
-데이터 흐름의 효율성을 고민하고, 반복적인 작업을 코드로 자동화하는 것을 즐깁니다. 
-현업에서의 성실한 기록을 기반으로, 기술적 한계를 넘어서는 해결책을 구축하고 있습니다.
+# $ cat myjuniverse.json
+
+{
+  "user": "myjuniverse",
+  "focus": ["Automation", "Version Control", "Efficiency"],
+  "active_projects": {
+    "gitlab-sync": {
+      "type": "Python Automation Tool",
+      "function": "Mirroring GitLab commit history to GitHub private repositories",
+      "logic": "Extracts unique commit metadata via GitLab API -> Generates empty commits with original timestamps"
+    }
+  },
+  "environments": ["GitLab Enterprise", "GitHub Private", "macOS Terminal"]
+}
 
 ---
 
-### 🚀 Key Projects & Contributions
+### 🔧 Engineering Focus
 
 
 
