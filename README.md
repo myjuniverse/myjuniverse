@@ -37,7 +37,6 @@
 </a>
 </div>
 
----
 
 # Hello, I'm Jun Park! 👋
 
@@ -92,7 +91,7 @@
 
 - **Tech Stack**: Python, Git
 - **Logic**: GitLab API를 통해 커밋 메타데이터 추출 -> GitHub Private Repo에 빈 커밋 생성 (TimeStamp 동기화)
-- **Repository**: [View Code](https://github.com/myjuniverse) (링크 연결 필요)
+- **Repository**: [View Code](https://github.com/myjuniverse)
 
 ---
 
@@ -104,8 +103,8 @@
 ---
 
 ## 📫 Contact
-- **Email**: (이메일 주소)
-- **Blog**: (블로그가 있다면 추가)
+- **Email**: rksekrh10@naver.com
+- **Blog**: https://yourpark.tistory.com/
 
 
 
