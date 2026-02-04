@@ -1,3 +1,13 @@
+
+# Hello, I'm Jun Park! 🙂
+
+> **Efficiency & Automation Enthusiast**
+> "비효율을 자동화로, 복잡함을 단순함으로 바꾸는 백엔드 개발자 박준입니다."
+
+기존의 프로세스를 개선하고 자동화하는 것에 관심이 많으며, Java와 Vue.js를 활용한 웹 서비스 개발 경험이 있습니다. 현재는 대용량 트랜잭션 처리 및 금융 컴플라이언스 시스템 구축에 집중하고 있습니다.
+
+<br>
+
 <div>
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=myjuniverse&utm_content=line">
   <img
@@ -9,14 +19,6 @@
 </div>
 
 
-# Hello, I'm Jun Park! 🙂
-
-> **Efficiency & Automation Enthusiast**
-> "비효율을 자동화로, 복잡함을 단순함으로 바꾸는 백엔드 개발자 박준입니다."
-
-기존의 프로세스를 개선하고 자동화하는 것에 관심이 많으며, Java와 Vue.js를 활용한 웹 서비스 개발 경험이 있습니다. 현재는 대용량 트랜잭션 처리 및 금융 컴플라이언스 시스템 구축에 집중하고 있습니다.
-
-<br>
 
 ## 🛠 Tech Stack
 
